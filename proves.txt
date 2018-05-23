@@ -17,6 +17,5 @@ Readme
 Crear readme.md del projecte i pujar al repositori.
 A mesura que aneu realitzant exercicis durant el curs, aneu afegint els links als exercicis en aquest readme.
 
-*Cerca a la documentació com crear branques i fer merge.
-** En cas de conflicte entre branques, solucionar-ho.
+
 
