@@ -1,10 +1,5 @@
 Objectiu: Familiaritzar-se amb treballar amb GIT
 
-Primer projecte GIT
-Instal·lar SourceTree al ordinador.
-Crear una compte al GitHub.
-Crea un nou projecte a GitHub que anomenarem “git_test”.
-
 
 
 Branques
