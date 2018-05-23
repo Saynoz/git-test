@@ -1,0 +1,23 @@
+Objectiu: Familiaritzar-se amb treballar amb GIT
+
+Primer projecte GIT
+Instal·lar SourceTree al ordinador.
+Crear una compte al GitHub.
+Crea un nou projecte a GitHub que anomenarem “git_test”.
+Inicialment aquest projecte estarà format únicament per un document de text proves.txt que haurem de crear en el nostre ordinador (no a Github).
+Un cop creat l’arxiu de text, inclou-lo i puja’l al repositori Github.
+Fes una modificació al fitxer i torna a pujar-lo al repositori Github.
+
+Branques
+Crear una nova branca “branch1” per a treballar sobre aquesta.
+Modificar el fitxer, i de nou fes commit i push.
+Torna a la branca original “master” i modifica també el fitxer, fes commit i push.
+Fes un merge de la branca “branch1” a “master”
+
+Readme
+Crear readme.md del projecte i pujar al repositori.
+A mesura que aneu realitzant exercicis durant el curs, aneu afegint els links als exercicis en aquest readme.
+
+*Cerca a la documentació com crear branques i fer merge.
+** En cas de conflicte entre branques, solucionar-ho.
+
