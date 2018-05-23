@@ -4,9 +4,8 @@ Primer projecte GIT
 Instal·lar SourceTree al ordinador.
 Crear una compte al GitHub.
 Crea un nou projecte a GitHub que anomenarem “git_test”.
-Inicialment aquest projecte estarà format únicament per un document de text proves.txt que haurem de crear en el nostre ordinador (no a Github).
-Un cop creat l’arxiu de text, inclou-lo i puja’l al repositori Github.
-Fes una modificació al fitxer i torna a pujar-lo al repositori Github.
+
+
 
 Branques
 Crear una nova branca “branch1” per a treballar sobre aquesta.
